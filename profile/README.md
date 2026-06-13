@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌾 가마니 Gamani
+# 🌾 가마니 Gamani 가만히 쌓이는 지식
 
 ### 같은 학교 학생들과 함께 쌓아가는 캠퍼스 기반 학습 플랫폼
 
@@ -15,7 +15,6 @@
 <img src="https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-DB-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-Cache-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/TestFlight-Beta-0D96F6?style=for-the-badge&logo=apple&logoColor=white" />
 
 <br/><br/>
@@ -59,6 +58,7 @@
 ### 👥 Study
 
 - 그룹 생성 / 참여 / 관리
+- 게시판 소통 커뮤니티
 - 투표형 일정 조율
 - 타임블록 히트맵 기반 시간 조정
 
@@ -66,8 +66,7 @@
 
 - 개인별 공부 시간 측정 및 기록
 - 과목별 공부 시간 관리
-- 강의시간표 연동 과목 선택
-- 전공별 · 학과별 랭킹 제공
+- 전공별 · 학과별 개인 랭킹 제공
 
 ### 📅 Planner
 
